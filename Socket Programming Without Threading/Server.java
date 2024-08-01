@@ -4,6 +4,12 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;
 
+
+/*
+    Socket Programming - SIngle-Client without Threading - Half Duplex
+*/
+
+
 public class Server {
     public static void main(String[] args) throws Exception {
 
