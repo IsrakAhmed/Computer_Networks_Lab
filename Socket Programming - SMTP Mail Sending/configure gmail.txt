@@ -1,0 +1,10 @@
+Steps :
+
+1.	Enable Two-factor authentication.
+2.	Generate an App Password
+
+	3.	Go to your Google Account's Security settings.
+	4.	Search for App passwords in the search bar.
+	5.	Give a name to your app password and generate an app password.
+
+6.	Copy it and use (instead of actual gmail password) for smtp login.
